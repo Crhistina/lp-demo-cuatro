@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Sistema Educativo Cibertec</h1>
-
+<h2>Crhistina Javier</h2>
 </body>
 </html>
